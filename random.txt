@@ -1,0 +1,7 @@
+1. cool     ;
+2. loser     ;
+3. thumbs up     ;
+4. victory     ;
+5. slap     ;
+
+link : https://teachablemachine.withgoogle.com/models/x_prWLDTq/ ;
